@@ -81,10 +81,3 @@ In this Machine Learning model you can easily download which ever model you want
 ## Contributing
 
 Contributions are welcome! If you have suggestions, feature requests, or want to report a bug, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Replace the placeholders (`your-username`, `link-to-live-demo`, etc.) with the actual information relevant to your project. Also, make sure to include the `LICENSE` file containing the text of the MIT License if you intend to use that license for your project.
