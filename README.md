@@ -13,17 +13,12 @@ This repository contains a Credit Risk Classification model that uses machine le
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
-## Demo
-
-You can view a live demo of the application [here](link-to-live-demo).
 
 ## Project Structure
 
